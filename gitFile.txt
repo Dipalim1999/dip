@@ -1,0 +1,6 @@
+This is a demo file for git training
+
+
+this is the demo file.
+git.add
+
